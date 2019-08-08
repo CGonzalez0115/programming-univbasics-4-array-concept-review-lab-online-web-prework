@@ -12,7 +12,7 @@ end
 def find_max_value(array)
   when 'takes in an array of integers and returns the highest value integer' do
     int max = array_methods
-    
+
 end
 
 def find_min_value(array)
